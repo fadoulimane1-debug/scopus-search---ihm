@@ -65,12 +65,3 @@ scopus2/src/
 - 👤 Gestion du profil utilisateur
 - 📤 Export CSV / TXT
 
-## Lancer dans IntelliJ
-1. Extraire le ZIP
-2. Open → scopus2/
-3. Clic droit src/ → Mark Directory as → Sources Root
-4. Ajouter json-20231013.jar : File → Project Structure → Libraries → +
-5. Dans ServiceRecherche.java ligne 17 : remplace YOUR_API_KEY par ta clé
-6. Lancer gui/FenetrePrincipale.java ▶️
-7. Compte démo : admin@scopus.com / 1234
-```
